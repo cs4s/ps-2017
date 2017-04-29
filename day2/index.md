@@ -10,7 +10,7 @@ title:  CS4PS @ UON 2017 - Day 2
 |---
 | Time | Session |
 |-|-
-| **9:15am - 10:45am** | [**Creative Computing Activity**]({{ site.baseurl | append: site.creative_computing_path }})  |
+| **9:15am - 10:45am** | **Creative Computing Activity** <!-- [**Creative Computing Activity**]({{ site.baseurl | append: site.creative_computing_path }}) -->  |
 | 10:45am - 11:00am | Morning Tea | 
 | **11:00am - 12:30pm** | [**Physical Computing Activity**]({{ site.baseurl | append: site.physical_computing_path }}) | 
 | 12:30pm - 1:00pm | Lunch |
