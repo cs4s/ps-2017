@@ -8,6 +8,11 @@ title: CS4PS @ UON 2017 - Extras
 On this page, we have included some supplementary materials that we have used in previous workshops.
 These may be useful if you are looking for more activity ideas.
 
+## Building Mobile Apps with AppInventor
+
+In previous years' workshops we have included a *"Building Mobile with AppInventor"* activity.
+If you are interested in using AppInventor in your classroom, the presentation, workshop tutorials and some useful links from last year's AppInventor session are available [on this page](appinventor).
+
 ## My Robotic Friends
 
 My Robotic Friends is an unplugged activity developed by [Thinkersmith](http://thinkersmith.org/){:target="_blank"}.

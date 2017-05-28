@@ -16,8 +16,6 @@ google_analytics: UA-87991896-1
 
 # Content Pages Paths
 resources_path: "/resources"
-extras_path: "/extras/"
-previous_year_extras_path: "https://cs4s.github.io/ps-2016/extras/"
 
 # Day 1 Paths
 day1_path: "/day1/"
@@ -33,6 +31,11 @@ lesson_planning_path: "/day2/lesson_planning/"
 physical_computing_path: "/day2/physical_computing/"
 previous_year_physical_computing_path: "https://cs4s.github.io/ps-2016/day2/physicalcomputing/"
 sharing_path: "/day2/sharing/"
+
+# Extras Paths
+extras_path: "/extras/"
+previous_year_app_inventor_path: "https://cs4s.github.io/ps-2016/day2/appinventor/"
+previous_year_extras_path: "https://cs4s.github.io/ps-2016/extras/"
 
 # Build settings
 markdown: kramdown
