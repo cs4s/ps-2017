@@ -30,7 +30,7 @@ There are 2 activities in this session. We recommend that you complete them in t
 
 - [Physical Computing with MaKey MaKeys Presentation (PDF presentation)]({{ site.previous_year_physical_computing_path | append: "presentation/presentation.pdf" }}){:target="_blank"}
 - [Making a Piano - Tutorial (Word document)]({{ site.previous_year_physical_computing_path | append: "piano_activity.docx" }})
-- [Making an Interactive Quiz - Tutorial (Word document)]({{ site.previous_year_physical_computing_path | append: "quiz_activity.docx" }})
+- [Making an Interactive Quiz - Tutorial (Word document)](quiz_activity.docx)
 - [Making an Interactive Quiz Resources (Zip)]({{ site.previous_year_physical_computing_path | append: "quiz_resources.zip" }})
 
 If you complete both of these activities, please let us know. 
