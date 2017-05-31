@@ -16,10 +16,11 @@ CSUnplugged is a set of free resources for teaching Computer Science concepts wi
 
 ## Files
 
-- In development
+- [CSUnplugged Binary Numbers Activity](binary_numbers_activity.pdf){:target="_blank"}
+- [CSUnplugged Image Representation Activity](image_representation_activity.pdf){:target="_blank"}
 
 ## Links
 
-- More to be added
+- [Binary Number Cards (Interactive Website)](http://www.mrmaynard.com/activities/binarycards/){:target="_blank"}
 - [CSUnplugged](http://csunplugged.org/){:target="_blank"}
 - [TryComputing](http://www.trycomputing.org/){:target="_blank"}
