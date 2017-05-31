@@ -15,5 +15,5 @@ title: CS4PS @ UON 2017 - Day 1
 | 10:45am - 11:00am | Morning Tea | 
 | **11:00am - 12:30pm** | [**Writing Algorithms Activity**]({{ site.baseurl | append: site.robotics_path }}) |
 | 12:30pm - 1:00pm | Lunch | 
-| **1:00pm - 3:00pm** | [**Visual Coding Activity**]({{ site.baseurl | append: site.visual_programming_path }})  | 
+| **1:00pm - 3:00pm** | [**Visual Programming Activity**]({{ site.baseurl | append: site.visual_programming_path }})  | 
 |===
