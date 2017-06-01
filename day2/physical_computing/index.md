@@ -24,6 +24,15 @@ MaKey MaKeys are ["An Invention Kit for Everyone"](http://makeymakey.com/){:targ
 The increased availability of gadgets like MaKey MaKeys and 3D printers has spurred on the ["Maker Movement"](https://www.techopedia.com/definition/28408/maker-movement){:target="_blank"}.
 This is encouraging for STEAM (Science, Technology, Engineering, Arts and Mathematics) education, because being a Maker usually involves using skills from all of these these disciplines to create a real, tangible invention.
 
+## Extension Activity
+
+In the *"Making an Interactive Quiz"* tutorial there is an extension activity that you may want to work through if you finish the main activity in the tutorial quickly. 
+The extension activity involves learning about *code smells* in Scratch.
+A *code smell* is a term used to describe code that works as the programmer intended, but that could cause problems for themselves or their peers to interpret and/or change in the future.
+For example, a student creating a program in Scratch may have a long stack of blocks in their Scripts, which you might find difficult to read and understand.
+
+You can read more about discovering *code smells* in Scratch and find a link to a report that involved examining how *smelly code* affected students' performance in modifying and fixing Scratch programs on [Felienne Hermans' blog](http://www.felienne.com/archives/4807){:target="_blank"}.
+
 ## Files
 
 There are 2 activities in this session. We recommend that you complete them in this order: *Making a Piano*, followed by *Making an Interactive Quiz*.
@@ -33,7 +42,7 @@ There are 2 activities in this session. We recommend that you complete them in t
 - [Making an Interactive Quiz - Tutorial (Word document)](quiz_activity.docx)
 - [Making an Interactive Quiz Resources (Zip)]({{ site.previous_year_physical_computing_path | append: "quiz_resources.zip" }})
 
-If you complete both of these activities, please let us know. 
+If you complete all of these activities before the end of the session, please let us know. 
 
 ## Links
 
