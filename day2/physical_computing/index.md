@@ -26,7 +26,7 @@ This is encouraging for STEAM (Science, Technology, Engineering, Arts and Mathem
 
 ## Extension Activity
 
-In the *"Making an Interactive Quiz"* tutorial there is an extension activity that you may want to work through if you finish the main activity in the tutorial quickly. 
+In the *"Making an Interactive Quiz"* tutorial there is an extension activity that you may want to work through once you have finished the main activity. 
 The extension activity involves learning about *code smells* in Scratch.
 A *code smell* is a term used to describe code that works as the programmer intended, but that could cause problems for themselves or their peers to interpret and/or change in the future.
 For example, a student creating a program in Scratch may have a long stack of blocks in their Scripts, which you might find difficult to read and understand.
