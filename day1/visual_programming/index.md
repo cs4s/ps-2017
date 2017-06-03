@@ -13,6 +13,12 @@ Scratch is a Visual Programming language that can be used to create interactive 
 
 We recommend you start with the *Introduction to Scratch* tutorial before completing the *Making Cookie Bird* tutorial, both of which are linked below.
 
+## Extra Activities
+
+If you complete the two main tutorials before the session finishes, you may like to explore some of the materials provided by [Code Club](http://projects.codeclubworld.org/en-GB/){:target="_blank"} and on [Google's CS First](https://www.cs-first.com/materials){:target="_blank"} website.
+
+Code Club Australia have also created a [website that maps how Code Club resources align with the Australian Curriculum - Digital Technologies content descriptors](https://codeclubau.org/curriculum/overview.html){:target="_blank"}, with a focus on the Stages 2 and 3 content descriptors.
+
 ## Files
 
 - [Visual Programming with Scratch Presentation (PDF presentation)](presentation/presentation.pdf){:target="_blank"}
@@ -25,4 +31,5 @@ We recommend you start with the *Introduction to Scratch* tutorial before comple
 - [Scratch](https://scratch.mit.edu/){:target="_blank"}
 - [ScratchEd (Scratch Educator Community & Resources)](http://scratched.gse.harvard.edu/){:target="_blank"}
 - [Code Club Resources](http://projects.codeclubworld.org/en-GB/){:target="_blank"}
+- [Code Club - Australian Curriculum Map](https://codeclubau.org/curriculum/overview.html){:target="_blank"}
 - [CS First Materials](https://www.cs-first.com/materials){:target="_blank"}
