@@ -26,3 +26,9 @@ The schedules for both of the days, and the materials for the hands-on activitie
 
 If you would like to use any of the workshop materials in your classroom, or if you would like modify them in any way, you are welcome to do so, provided you acknowledge the original source(s).
 We have also included links to extra resources on the [Resources]( {{ site.baseurl | append: site.resources_path }} ) page and on each of the different session pages.
+
+## Future CS4S Events
+
+We are planning to run more professional development opportunities this year and next year.
+If you are interested in keeping up-to-date with the opportunities that the CS4S team offers, [please register for the UON CS4S mailing list by completing this form](https://goo.gl/forms/uhFt9j740ELhKKxK2){:target="_blank"}.
+We will send out information about all upcoming CS4S events through this mailing list.
